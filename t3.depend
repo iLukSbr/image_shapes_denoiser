@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1671055730 source:c:\users\revox\desktop\trabalho3\t3\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1668695314 c:\users\revox\desktop\trabalho3\t3\gerador_de_testes.h
+	"imagem.h"
+
+1668693044 c:\users\revox\desktop\trabalho3\t3\imagem.h
+
+1668693234 source:c:\users\revox\desktop\trabalho3\t3\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1670107145 source:c:\users\revox\desktop\trabalho3\t3\t3v2.c
+	"imagem.h"
+	<stdlib.h>
+	"trabalho3.h"
+
+1668693030 c:\users\revox\desktop\trabalho3\t3\trabalho3.h
+	"imagem.h"
+
+1671057262 source:c:\users\revox\desktop\trabalho3\t3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1670391542 source:c:\users\revox\desktop\trabalho3\t3\t3v3.c
+	"imagem.h"
+	<stdlib.h>
+	"trabalho3.h"
+	<stdio.h>
+
+1670744126 source:c:\users\revox\desktop\trabalho3\t3\t3v4.c
+	<stdlib.h>
+	<stdio.h>
+	"trabalho3.h"
+	"imagem.h"
+
+1670975070 source:c:\users\revox\desktop\trabalho3\t3\t3v7.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"trabalho3.h"
+	"imagem.h"
+
+1671057244 source:c:\users\revox\desktop\trabalho3\t3\t3-2242044-2516977.c
+	<stdlib.h>
+	<math.h>
+	"trabalho3.h"
+
+1671055730 source:d:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho3\t3\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1668695314 d:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho3\t3\gerador_de_testes.h
+	"imagem.h"
+
+1668693044 d:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho3\t3\imagem.h
+
+1668693234 source:d:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho3\t3\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1671072649 source:d:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho3\t3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1668693030 d:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho3\t3\trabalho3.h
+	"imagem.h"
+
+1671072873 source:d:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho3\t3\t3-2242044-2516977.c
+	<stdlib.h>
+	<math.h>
+	"trabalho3.h"
+	"imagem.h"
+
