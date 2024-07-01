@@ -1,2 +1,2 @@
-# Image denoiser for geometric shapes
-Image denoiser for geometric shaped figures.
+# Image denoiser and counter for geometric shapes
+Image denoiser and counter for geometric shaped figures.
